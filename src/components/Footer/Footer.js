@@ -32,6 +32,12 @@ const Footer = () => {
             odejinmirapheal@gmail.com
           </LinkItem>
         </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Address</LinkTitle>
+          <LinkItem href="/">
+            10, Alaro Sanngo, Ibadan, Oyo State, Nigeria
+          </LinkItem>
+        </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
